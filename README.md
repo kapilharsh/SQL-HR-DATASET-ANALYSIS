@@ -15,6 +15,6 @@ Provide data-driven recommendations for HR strategy
 
 
 📂 Dataset
-Size: [MORE THAN 1000]
+Size: [1000++]
 Key columns: Employee ID, Age, Department, Job Role, Monthly Income, Attrition, Years at Company, Job Satisfaction, etc.
 
